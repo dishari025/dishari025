@@ -1,5 +1,5 @@
-                                                                       Hi 👋 , I’m Dishari Saha.
-                                            A third-year engineering student, majoring in Information Technology at Jadavpur University
+                  Hi 👋 , I’m Dishari Saha.
+  A third-year engineering student, majoring in Information Technology at Jadavpur University
 - 🌱 I’m currently exploring AI and Machine Learning.
 - 💬 Ask me about C,C++,SQL and Web Dev
 - 📫 Contact me via LinkedIn.
