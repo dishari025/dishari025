@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dishari Saha.
+- Hi 👋 , I’m Dishari Saha.
 - 🌱 I’m currently exploring AI and Machine Learning.
 - 💬 Ask me about C,C++,SQL and Web Dev
 - 📫 Contact me via LinkedIn.
