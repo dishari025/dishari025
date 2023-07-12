@@ -1,6 +1,6 @@
   Hi 👋 , I’m Dishari Saha.
   
-  A fourth-year engineering student, majoring in Information Technology at Jadavpur University.
+  A Junior, majoring in Information Technology at Jadavpur University.
 - 🌱 I’m currently exploring AI, Machine Learning and Network Security.
 - 💬 Ask me about C,C++,SQL and Web Dev.
 - 📫 Contact me via LinkedIn.
